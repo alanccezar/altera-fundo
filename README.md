@@ -1,6 +1,10 @@
 # Altera Fundo
-![Tela Inicial](./github-header-image.png)
-![Aplicação Funcionando](./github-header-image.gif)
+<div align="center">
+
+  ![Tela Inicial](./github-header-image.png)
+  ![Aplicação Funcionando](./github-header-image.gif)
+ 
+</div>
 
 ## O que é este projeto
 
