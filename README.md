@@ -41,7 +41,5 @@ Não temos dependências no projeto.
 - [Paleta de Cores](https://coolors.co/palette/d94e33-2c5697-ed9b33-8a9b8e-2d2926-f4e5de-dde5ed-f8f1e0-d7d2cb-dfdede)
 
 ## Como contribuir com o projeto
-- Abrir uma issue falando sobre as alterações que você quer implementar;
-- Esperar a tarefa ser atribuída a você;
-- Desenvolver o código e fazer um pull-request.
+[Clique aqui](./CONTRIBUTING.md) para as diretrizes de contribuição
 
