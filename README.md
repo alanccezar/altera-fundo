@@ -67,3 +67,5 @@ Você pode contatar o Alan (mantenedor do projeto) em alan@financetec.com.br ou 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alancezar/)
 
+--------------------
+<p align="center">Feito com 🪄 por Alan</p>
