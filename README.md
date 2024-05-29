@@ -44,6 +44,9 @@ Não temos dependências no projeto.
 [Clique aqui](./CONTRIBUTING.md) para as ver as diretrizes de contribuição
 
 ## Pessoas que contribuiram com o projeto
-- [Alan](github.com/alanccezar) - mantenedora do projeto
+- [Alan](github.com/alanccezar) - mantenedor do projeto
 - [Alan2](github.com/alanccezar) - contribuinte
 - [Alan3](github.com/alanccezar) - contribuinte
+
+## Precisa de ajuda?
+Você pode contatar o Alan (mantenedor do projeto) em alan@financetec.com.br
