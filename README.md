@@ -43,3 +43,7 @@ Não temos dependências no projeto.
 ## Como contribuir com o projeto
 [Clique aqui](./CONTRIBUTING.md) para as ver as diretrizes de contribuição
 
+## Pessoas que contribuiram com o projeto
+- [Alan](github.com/alanccezar) - mantenedora do projeto
+- [Alan2](github.com/alanccezar) - contribuinte
+- [Alan3](github.com/alanccezar) - contribuinte
