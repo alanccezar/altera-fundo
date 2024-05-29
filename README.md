@@ -1,4 +1,6 @@
 # Altera Fundo
+![Tela Inicial]()
+![Aplicação funcionando]()
 
 ## O que é este projeto
 
