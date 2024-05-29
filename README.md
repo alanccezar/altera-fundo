@@ -1,10 +1,18 @@
 # Altera Fundo
+![GitHub repo size](https://img.shields.io/github/repo-size/alanccezar/altera-fundo?label=Tamanho)
+![Lines of code](https://img.shields.io/tokei/lines/github/alanccezar/altera-fundo?label=Total%20de%20Linhas)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/alanccezar/altera-fundo)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/alanccezar/altera-fundo)
+![GitHub License](https://img.shields.io/github/license/alanccezar/altera-fundo?label=Licen%C3%A7a)
+
 <div align="center">
 
   ![Tela Inicial](./github-header-image.png)
   ![Aplicação Funcionando](./github-header-image.gif)
  
 </div>
+
+
 
 ## 🤔 O que é este projeto
 
