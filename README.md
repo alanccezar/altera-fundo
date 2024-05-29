@@ -28,4 +28,14 @@ Na pasta raíz do projeto, existem três arquvivos de código:
 - script.js -> contém o código javascript da aplicação
 
 ## Como este projeto foi implementado
-Este projeto foi implementado com HTML, 
+Este projeto foi implementado com HTML, CSS e Javascript.
+
+No javascript os botões definidos no HTML são capturados através de um getElementsByTagName e é adicionado um event listener a cada um desses botões.
+
+Ao clicar em um botão, é disparado um evento que irá alterar a cor de fundo da página e o título de segunda importância será atualizado com o código da cor, que está armazenado em um array.
+
+## Dependências Principais
+Não temos dependências no projeto.
+
+## Links úteis
+- [Paleta de Cores](https://coolors.co/palette/d94e33-2c5697-ed9b33-8a9b8e-2d2926-f4e5de-dde5ed-f8f1e0-d7d2cb-dfdede)
