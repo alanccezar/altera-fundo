@@ -1,5 +1,5 @@
 # Altera Fundo
-![Tela Inicial]()
+![Tela Inicial](./github-header-image.gif)
 ![Aplicação funcionando]()
 
 ## O que é este projeto
