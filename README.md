@@ -41,5 +41,5 @@ Não temos dependências no projeto.
 - [Paleta de Cores](https://coolors.co/palette/d94e33-2c5697-ed9b33-8a9b8e-2d2926-f4e5de-dde5ed-f8f1e0-d7d2cb-dfdede)
 
 ## Como contribuir com o projeto
-[Clique aqui](./CONTRIBUTING.md) para as diretrizes de contribuição
+[Clique aqui](./CONTRIBUTING.md) para as ver as diretrizes de contribuição
 
