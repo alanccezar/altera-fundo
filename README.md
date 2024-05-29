@@ -64,5 +64,6 @@ Não temos dependências no projeto.
 
 ## 🆘 Precisa de ajuda?
 Você pode contatar o Alan (mantenedor do projeto) em alan@financetec.com.br ou entre em contato pelas redes sociais:
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alancezar/)
 
