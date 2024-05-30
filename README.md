@@ -23,6 +23,20 @@ Para rodar o projeto basta das dois cliques no arquivo *index.html* uma vez que 
 
 Alternativamente, você também pode utilizar a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) da IDE Visual Studio Code para rodar o projeto.
 
+Para rodar este projeto execute os comandos abixo na pasta raiz do mesmo:
+```
+npm i
+npm run dev
+```
+```
+npm i
+npm run serve
+```
+```
+npm i
+npm start
+```
+
 ## 🕹️ Como usar este projeto
 Uma vez que a aplicação esteja rodando, você pode clicar nos círculos coloridos que são mostrados na página para alterar a cor de fundo da página. A cor será alterada de acordo com o botão que você pressionar.
 
