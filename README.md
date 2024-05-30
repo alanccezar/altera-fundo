@@ -37,6 +37,12 @@ npm i
 npm start
 ```
 
+Será necessário ser previamente instalado na máquina:
+- Node
+- MySQL
+
+Será necessário que um banco de dados no sistema X seja criado e preenchido com o código que está no arquivo Y.
+
 ## 🕹️ Como usar este projeto
 Uma vez que a aplicação esteja rodando, você pode clicar nos círculos coloridos que são mostrados na página para alterar a cor de fundo da página. A cor será alterada de acordo com o botão que você pressionar.
 
